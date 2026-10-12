@@ -138,13 +138,25 @@ Open `Travel_Tourism_Analysis.ipynb` and run the cells sequentially. Keep `Trave
 
 This project demonstrates how Python-based exploratory data analysis and statistical testing can help uncover travel booking patterns, customer preferences, cancellation trends, and trip-cost relationships. The findings provide a foundation for improving customer experience and supporting data-driven decisions in the travel and tourism industry.
 
-## 👨‍💻 Author
+## 👤 Author
 
-**Ravi Kumar Gupta**
+**Ravi Kumar Gupta**  
+📍 Delhi, India
 
-- **GitHub:** [btwitravi](https://github.com/btwitravi)
-- **LinkedIn:** [Ravi Kumar Gupta](https://www.linkedin.com/in/ravi-kumar-gupta-161745247/)
-- **Portfolio:** [Data Analyst Portfolio](https://btwitravi.github.io/Portfolio/)
+<p align="left">
+  <a href="https://github.com/btwitravi">
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ravi-kumar-gupta-161745247/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.youtube.com/@btwitravi">
+    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://btwitravi.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-6C4AB6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 ---
 
